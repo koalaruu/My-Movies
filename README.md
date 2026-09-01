@@ -1,4 +1,4 @@
-# my_movies
+# My-Movies
 
 A new Flutter project.
 
